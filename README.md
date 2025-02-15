@@ -2,7 +2,7 @@
 
 This is a Codebasics resume challenge. I have worked on this and my analysis is as follows:
 
-Link to the Challenge
+[Link to the Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 Link to Interactive Dashboard
 
