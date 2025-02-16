@@ -4,8 +4,6 @@ This is a Codebasics resume challenge. I have worked on this and my analysis is 
 
 [Link to the Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-[Link to Interactive Dashboard](https://app.powerbi.com/links/ohlJ0fq28H?ctid=afb365cf-c1f9-4251-ad16-c129eff3bcaf&pbi_source=linkShare)
-
 ## Problem statement
 
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
@@ -21,8 +19,17 @@ You are a data analyst who has been provided with sample data and a mock-up dash
   - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Data Model
+
+![image](https://github.com/user-attachments/assets/c7fb1e22-89f5-43f1-8533-879c7ead4249)
+
 ## Overall Analysis View
+
+![image](https://github.com/user-attachments/assets/817bcbee-d8ca-4132-b193-656695e414f3)
+
 ## Monthly Analysis View
+
+![image](https://github.com/user-attachments/assets/daaebf7b-0fd9-4838-957f-36f6ae9ad6f0)
+
 ## Key Learnings of Dashboard Development
   - Explored the use of bookmarks and selection to enhance dashboard functionality, such as implementing page navigation and a clear filter button. 
   - Created a Calendar visual using the matrix table, enabling versatile analytical applications. 
